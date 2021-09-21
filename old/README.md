@@ -1,2 +1,0 @@
-# rachelhchiu
-Website for Rachel
