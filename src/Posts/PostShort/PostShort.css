@@ -1,0 +1,14 @@
+.post-title-con {
+    padding-top: 70px;
+}
+
+.post-tag {
+    color: gray;
+    display: inline-block;
+    padding-right: 30px;
+}
+
+.icon {
+    color: gray;
+    margin-right: 10px;
+}
